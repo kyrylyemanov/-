@@ -1,3 +1,7 @@
+
+<img width="150" height="150" alt="изображение" src="https://github.com/user-attachments/assets/b6b8b8cc-2890-41ad-b070-a44a157ce4cc" />
+
+
 # Тестування з використанням бібліотеки pytest
 
 ## Звіт до роботи

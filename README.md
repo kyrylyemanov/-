@@ -1,4 +1,7 @@
-![alt text](../../../logo-lit.jpg)
+
+<img width="150" height="150" alt="изображение" src="https://github.com/user-attachments/assets/875bc84e-8118-40c6-af25-2a6503fca021" />
+
+
 # Звіт до роботи
 
 ## Тема: Загальне тестування та юніт-тести

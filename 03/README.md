@@ -1,3 +1,7 @@
+
+<img width="150" height="150" alt="изображение" src="https://github.com/user-attachments/assets/fd33365b-bb44-4b5e-b935-e780337bb7cc" />
+
+
 # Звіт до роботи
 
 ## Тема: Покриття коду
